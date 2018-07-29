@@ -1,0 +1,24 @@
+body {
+    background-image: url(../images/light-grey-terrazzo.png)
+}
+
+p {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 138%;
+}
+
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Georgia', 'Times New Roman', Times, serif
+}
+
+#top-bar {
+    /* height: 300px; */
+    float: left;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: #fff;
+    /* float: left; */
+}
