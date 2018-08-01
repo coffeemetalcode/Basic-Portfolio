@@ -149,3 +149,20 @@ button {
     border: 1px solid #4aaaa5;
     padding: 5px 15px 5px 15px;
 }
+
+.gallery-img {
+    width: 288px;
+    float: left;
+    margin: 6px 16px 36px 16px;
+    overflow: auto;
+}
+
+.gallery-btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: 1px solid #4aaaa5;
+    width: 288px;
+    float: left;
+    margin: 6px 16px 36px 16px;
+    text-align: center;
+}
