@@ -45,6 +45,8 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #4aaaa5;
     color: #fff;
     float: left;
+    height: 65px;
+    /* overflow: auto; */
 }
 
 #element-2 {
