@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
     border: 1px solid #dddddd;
-    /* overflow: auto; */
+    overflow: auto;
 }
 
 .button {
@@ -105,7 +105,7 @@ a:hover {
 }
 
 #profile-img {
-    width: 200px;
+    width: 255px;
     float: left;
     margin: 6px 16px 0px 16px;
 }
@@ -161,8 +161,29 @@ button {
     background-color: #4aaaa5;
     color: #ffffff;
     border: 1px solid #4aaaa5;
-    width: 288px;
-    float: left;
+    width: 286px;
+    /* float: left; */
     margin: 6px 16px 36px 16px;
     text-align: center;
+    /* padding-top: 15px; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
+
+.container {
+    position: relative;
+    /* text-align: center;
+    color: white; */
+}
+
+/* #tile-1 {
+    position: absolute;
+    left: 976px;
+}
+
+#tile-2 {
+    position: absolute;
+    left: 32px;
+} */
